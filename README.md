@@ -12,6 +12,5 @@ The game runs at different speeds on each computer depending on your processing 
 If the game is too slow or too fast open the settings.py file and change the 
 self.ship_speed_factor, self.bullet_speed_factor, and self.alien_speed_factor up or down 
 depending on how fast or slow your computer runs. You may also want to change the dynamic 
-settings of the same three names (self.ship_speed_factor, self.bullet_speed_factor, and 
-self.alien_speed_factor) as well as the self.speedup_scale. All of these are located in
-the settings.py file.
+settings of the self.alien_speed_factor as well as the self.speedup_scale. All of these are 
+located in the settings.py file.
